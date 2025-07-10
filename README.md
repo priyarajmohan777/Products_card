@@ -265,9 +265,10 @@ p {
 
 ```
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b9a3b690-5727-4f18-a2c4-30394ed39b84)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6df00614-d098-4fbf-8151-4fbf91dedbfb)
+
 
 ## Result:
 A product card layout similar to those found on real-time e-commerce platform like FlipKart using the CSS Box Model is replicated successfully.
